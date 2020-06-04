@@ -12,3 +12,6 @@ tfrecord_data
 text_data
 tfrecord_data
 img_data
+net_save
+text_data
+*.tfrecords
