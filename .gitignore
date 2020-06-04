@@ -8,3 +8,7 @@ MNIST_data
 models-master
 神经网络训练结果保存
 events.out.tfevents.1532774730.ITYDL-20180721B
+tfrecord_data
+text_data
+tfrecord_data
+img_data
